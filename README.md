@@ -1,14 +1,26 @@
-# AI-Powered Mock Interview Platform
+# AI-Powered Mock Interview Application
 
-## Description
-This is an advanced and interactive AI-powered mock interview platform designed to help job seekers practice and improve their interview skills. Built with Next.js, Tailwind CSS, and Gemini Api,PostgreSQL, Drizzle ORM, it provides users with a good interview experience to enhance their chances of landing their dream job.
+A smart and interactive web application that simulates real-time technical interviews using AI. This tool is designed to help job seekers practice interviews, receive instant feedback, and build confidence before facing actual interviews.
+
+## Why I Built This
+
+As a B.Tech CSE student preparing for campus placements, I built this project to:
+- Provide real-time mock interviews using AI
+- Help users prepare for both technical and HR rounds
+- Offer performance feedback for continuous improvement
 
 ## Features
-- AI-driven Interview: interview questions and feedback powered by AI.
-- Personalized Interview Experiences: Tailor interview sessions based on job roles and industries.
-- User Experience Level Questions: Questions are adjusted based on the user's experience level, ensuring relevance and appropriate difficulty.
-- Detailed Feedback and Insights: Receive detailed feedback on your performance, including strengths, areas for improvement, and actionable tips.
-- Question Bank: Access a wide range of interview questions across different domains and difficulty levels.
-- Overall Grade: Receive an overall grade for each interview session, providing a quick assessment of your performance.
-- Recent Interviews: Easily access and review your recent interview sessions directly from the home page.
 
+- Real-time AI interaction for mock interviews
+- Multiple categories: DSA, DBMS, OS, HR
+- Score and feedback at the end of each session
+- Option to retry and improve responses
+- Clean and responsive user interface
+
+## Tech Stack
+
+- **Frontend:** ReactJS, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **AI Integration:** OpenAI API
+- **Database:** MongoDB with Mongoose
+- **Authentication:** JWT-based login system
